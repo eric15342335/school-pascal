@@ -1,1 +1,5 @@
-math
+**/lib
+**/backup
+*.lps
+*.exe
+*.o
