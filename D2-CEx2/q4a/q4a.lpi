@@ -11,7 +11,7 @@
         <UseDefaultCompilerOptions Value="True"/>
       </Flags>
       <SessionStorage Value="InProjectDir"/>
-      <Title Value="q4b"/>
+      <Title Value="q4a"/>
       <UseAppBundle Value="False"/>
       <ResourceType Value="res"/>
     </General>
@@ -27,7 +27,7 @@
     </RunParams>
     <Units>
       <Unit>
-        <Filename Value="q4b.pas"/>
+        <Filename Value="q4a.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
     </Units>
@@ -36,7 +36,7 @@
     <Version Value="11"/>
     <PathDelim Value="\"/>
     <Target>
-      <Filename Value="q4b"/>
+      <Filename Value="q4a"/>
     </Target>
     <SearchPaths>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
