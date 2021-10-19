@@ -1,0 +1,1 @@
+program d5_cex2_q4;var mark:integer;begin write('Enter Exam Mark : ');readln(mark);if (mark>=90) and (mark<101) then write('Grade : A') else if mark>=80 then write('Grade : B') else if mark>=70 then write('Grade : C ') else if mark>=60 then write('Grade : D') else if mark >=50 then write('Grade : E') else if mark >=0 then write('Grade : F') end.

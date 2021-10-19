@@ -1,0 +1,1 @@
+program d5_cex2_q3;var Choice,x,y:real;begin write('Enter your choice : ');readln(Choice);if Choice = 1 then begin write('Enter x : ');readln(x);write('Square root of the absolute value of x : ', sqrt(abs(x)):0:0);end else if Choice = 2 then begin write('Enter y : ');readln(y);write('Square of y : ', sqr(y):0:0)end end.
