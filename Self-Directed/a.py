@@ -1,0 +1,8 @@
+int1=int(input('Enter an integer: '))
+int2=int(input('Enter another integer: '))
+print('%s + %s = %s' % (int1,int2,int1+int2))
+print('%s - %s = %s' % (int1,int2,int1-int2))
+print('%s * %s = %s' % (int1,int2,int1*int2))
+print('%s / %s = %s' % (int1,int2,int1/int2))
+print('%s div %s = %s' % (int1,int2,int1//int2))
+print('%s mod %s = %s' % (int1,int2,int1%int2))
